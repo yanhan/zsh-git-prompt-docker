@@ -1,6 +1,6 @@
 # About
 
-Builds a Docker image whose default shell is zsh-git-prompt.
+Builds a Docker image whose default shell is zsh. In addition, oh-my-zsh and zsh-git-prompt are installed.
 
 This is for readers of my blog post titled [Haskell deep dive: zsh-git-prompt](http://blog.pangyanhan.com/posts/haskell-deep-dive-zsh-git-prompt.html) to try out zsh and zsh-git-prompt if they do not have them installed.
 
