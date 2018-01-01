@@ -39,4 +39,4 @@ which is actually equivalent to just running the [run.sh](/run.sh) script in thi
 
 ## License
 
-[MIT License](/LICENSE), Copyright (c) 2017 Pang Yan Han
+[MIT License](/LICENSE), Copyright (c) 2017-2018 Pang Yan Han
